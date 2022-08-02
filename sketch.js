@@ -4,12 +4,12 @@ let weightList = [75, 82, 89, 91, 95, 96, 101]
 let year = null
 
 function preload() {
-  picList.push(loadImage('assets/2016.jpg'))
-  picList.push(loadImage('assets/2017.jpg'))
-  picList.push(loadImage('assets/2018.jpg'))
-  picList.push(loadImage('assets/2019.jpg'))
-  picList.push(loadImage('assets/2020.jpg'))
-  picList.push(loadImage('assets/2021.jpg'))
+  picList.push(loadImage('https://helinjun486.github.io/assets/2016.jpg'))
+  picList.push(loadImage('https://helinjun486.github.io/assets/2017.jpg'))
+  picList.push(loadImage('https://helinjun486.github.io/assets/2018.jpg'))
+  picList.push(loadImage('https://helinjun486.github.io/assets/2019.jpg'))
+  picList.push(loadImage('https://helinjun486.github.io/assets/2020.jpg'))
+  picList.push(loadImage('https://helinjun486.github.io/assets/2021.jpg'))
 }
 
 
